@@ -6,5 +6,5 @@ try {
 } catch(PDOException $ex) {
   echo 'Error conectando a la BBDD. '.$ex->getMessage(); 
 }
-
+/*JUANCY MARICA*/
 ?>
